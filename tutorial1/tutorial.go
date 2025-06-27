@@ -9,6 +9,7 @@ func sum(val int) (int, error) {
 		sum += i
 	}
 	if sum < 1 {
+
 		errorVal = errors.New("sum low")
 	}
 
