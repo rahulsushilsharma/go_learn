@@ -1,4 +1,4 @@
-package main
+package snake_game
 
 import (
 	"fmt"
@@ -8,22 +8,12 @@ import (
 	"strconv"
 	"time"
 
+	"go_learn/internal/model"
+
 	"github.com/gdamore/tcell/v2"
 )
 
-type gamestate struct {
-	// Board         [][]rune `json:"board"`
-	SnakeLength   int     `json:"snakeLength"`
-	SnakePosition [][]int `json:"SnakePosition"`
-	Direction     int     `json:"Direction"`
-	Bound_x       int     `json:"Bound_x"`
-	Bound_y       int     `json:"Bound_y"`
-	Food_x        int     `json:"Food_x"`
-	Food_y        int     `json:"Food_y"`
-	game_over     bool
-}
-
-func updatePosition(state *gamestate, index int) {
+func updatePosition(state *model.Gamestate, index int) {
 	checkEating(state)
 
 	for i := len(state.SnakePosition) - 1; i >= 0; i-- {
@@ -66,7 +56,7 @@ func updatePosition(state *gamestate, index int) {
 
 }
 
-func logFile(state *gamestate) {
+func logFile(state *model.Gamestate) {
 
 	file, err := os.Open("logfile.txt")
 	if err != nil {
@@ -85,8 +75,8 @@ func logFile(state *gamestate) {
 
 }
 
-func gameLoop(state *gamestate, screen tcell.Screen, style tcell.Style, index int) {
-	if state.game_over {
+func gameLoop(state *model.Gamestate, screen tcell.Screen, style tcell.Style, index int) {
+	if state.Game_over {
 		putString(screen, state.Bound_x/2, state.Bound_y/2, style, "Game Over")
 		putString(screen, state.Bound_x/2-7, state.Bound_y/2+2, style, "Press r to restart the game")
 
@@ -125,9 +115,9 @@ func gameLoop(state *gamestate, screen tcell.Screen, style tcell.Style, index in
 
 }
 
-func initGameState(screen tcell.Screen) gamestate {
+func initGameState(screen tcell.Screen) model.Gamestate {
 	w, h := screen.Size()
-	state := gamestate{
+	state := model.Gamestate{
 		SnakeLength:   1,
 		SnakePosition: make([][]int, 2),
 		Direction:     4,
@@ -144,7 +134,7 @@ func initGameState(screen tcell.Screen) gamestate {
 
 }
 
-func generateFood(state *gamestate) (int, int) {
+func generateFood(state *model.Gamestate) (int, int) {
 	var x, y int
 	for {
 		x = rand.IntN(state.Bound_x-2) + 1
@@ -180,7 +170,7 @@ func generateFood(state *gamestate) (int, int) {
 	return x, y
 }
 
-func checkEating(state *gamestate) {
+func checkEating(state *model.Gamestate) {
 	ele1 := state.SnakePosition[0]
 	ele2 := state.SnakePosition[len(state.SnakePosition)-1]
 	check := (state.Food_x == ele1[1] && state.Food_y == ele1[0]) || (state.Food_x == ele2[1] && state.Food_y == ele2[0])
@@ -196,7 +186,7 @@ func checkEating(state *gamestate) {
 		}
 		if ele1[0] == val[0] && ele1[1] == val[1] {
 			state.SnakePosition = [][]int{{3, 4, 1}, {3, 5, 1}}
-			state.game_over = true
+			state.Game_over = true
 
 		}
 	}
@@ -222,7 +212,7 @@ func readInput(inputChan chan rune, s tcell.Screen) {
 	}
 }
 
-func updateDiraction(input rune, state *gamestate) {
+func updateDiraction(input rune, state *model.Gamestate) {
 	switch input {
 	case 's':
 		state.Direction = 1
@@ -239,12 +229,12 @@ func updateDiraction(input rune, state *gamestate) {
 		state.Direction = 4
 		state.SnakePosition[0][2] = 4 // left
 	case 'r':
-		state.game_over = false
+		state.Game_over = false
 	}
 
 }
 
-func main() {
+func RunGame() {
 	f, err := os.OpenFile("testlogfile", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
 		log.Fatalf("error opening file: %v", err)
