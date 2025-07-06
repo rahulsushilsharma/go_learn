@@ -88,7 +88,7 @@ func logFile(state *gamestate) {
 func gameLoop(state *gamestate, screen tcell.Screen, style tcell.Style, index int) {
 	if state.game_over {
 		putString(screen, state.Bound_x/2, state.Bound_y/2, style, "Game Over")
-		putString(screen, state.Bound_x/2-10, state.Bound_y/2+2, style, "Press r to restart the game")
+		putString(screen, state.Bound_x/2-7, state.Bound_y/2+2, style, "Press r to restart the game")
 
 		return
 
