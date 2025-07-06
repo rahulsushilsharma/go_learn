@@ -5,6 +5,7 @@ import (
 	"log"
 	"math/rand/v2"
 	"os"
+	"strconv"
 	"time"
 
 	"github.com/gdamore/tcell/v2"
@@ -87,6 +88,8 @@ func logFile(state *gamestate) {
 func gameLoop(state *gamestate, screen tcell.Screen, style tcell.Style, index int) {
 	if state.game_over {
 		putString(screen, state.Bound_x/2, state.Bound_y/2, style, "Game Over")
+		putString(screen, state.Bound_x/2-10, state.Bound_y/2+2, style, "Press r to restart the game")
+
 		return
 
 	}
@@ -314,11 +317,7 @@ func main() {
 				panic(err)
 			}
 
-			sentence := ""
-			for i := range state.SnakePosition {
-				sentence += fmt.Sprintf("snake %d,%d,%d ", state.Food_x, state.Food_y, state.SnakePosition[i][2])
-			}
-			putString(s, 0, height-1, defStyle, "hello"+sentence)
+			putString(s, 0, height-1, defStyle, "Score: "+strconv.Itoa(len(state.SnakePosition)-1))
 
 			s.Show()
 
