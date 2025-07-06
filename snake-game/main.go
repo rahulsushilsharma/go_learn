@@ -19,6 +19,7 @@ type gamestate struct {
 	Bound_y       int     `json:"Bound_y"`
 	Food_x        int     `json:"Food_x"`
 	Food_y        int     `json:"Food_y"`
+	game_over     bool
 }
 
 func updatePosition(state *gamestate, index int) {
@@ -84,6 +85,11 @@ func logFile(state *gamestate) {
 }
 
 func gameLoop(state *gamestate, screen tcell.Screen, style tcell.Style, index int) {
+	if state.game_over {
+		putString(screen, state.Bound_x/2, state.Bound_y/2, style, "Game Over")
+		return
+
+	}
 	updatePosition(state, index)
 	screen.SetContent(state.Food_x, state.Food_y, '0', nil, style)
 
@@ -93,6 +99,24 @@ func gameLoop(state *gamestate, screen tcell.Screen, style tcell.Style, index in
 	}
 
 	for i := range state.SnakePosition {
+		draw_head := '>'
+
+		switch state.SnakePosition[0][2] {
+		case 1:
+			draw_head = 'V'
+		case 2:
+			draw_head = '^'
+		case 3:
+			draw_head = '>'
+		case 4:
+			draw_head = '<'
+		}
+
+		if i == 0 {
+			screen.SetContent(state.SnakePosition[i][1], state.SnakePosition[i][0], draw_head, nil, style)
+			continue
+		}
+
 		screen.SetContent(state.SnakePosition[i][1], state.SnakePosition[i][0], '*', nil, style)
 	}
 
@@ -161,7 +185,17 @@ func checkEating(state *gamestate) {
 	if check {
 		state.SnakePosition = append(state.SnakePosition, []int{0, 0, 0})
 		state.Food_x, state.Food_y = generateFood(state)
-		log.Println("checkeating")
+	}
+
+	for i, val := range state.SnakePosition {
+		if i == 0 {
+			continue
+		}
+		if ele1[0] == val[0] && ele1[1] == val[1] {
+			state.SnakePosition = [][]int{{3, 4, 1}, {3, 5, 1}}
+			state.game_over = true
+
+		}
 	}
 }
 
@@ -189,20 +223,22 @@ func updateDiraction(input rune, state *gamestate) {
 	switch input {
 	case 's':
 		state.Direction = 1
-		state.SnakePosition[0][2] = 1
+		state.SnakePosition[0][2] = 1 //down
 	case 'w':
 		state.Direction = 2
-		state.SnakePosition[0][2] = 2
+		state.SnakePosition[0][2] = 2 //up
 
 	case 'd':
 		state.Direction = 3
-		state.SnakePosition[0][2] = 3
+		state.SnakePosition[0][2] = 3 //right
 
 	case 'a':
 		state.Direction = 4
-		state.SnakePosition[0][2] = 4
-
+		state.SnakePosition[0][2] = 4 // left
+	case 'r':
+		state.game_over = false
 	}
+
 }
 
 func main() {
@@ -261,6 +297,7 @@ func main() {
 	}()
 	index := 1
 	for {
+
 		if index >= len(state.SnakePosition) {
 			index = 0
 		}
@@ -270,8 +307,8 @@ func main() {
 			return
 		case input := <-inputChan:
 			updateDiraction(input, &state)
-			putString(s, 10, 10, defStyle, "key press")
 		default:
+
 			gameLoop(&state, s, tcell.StyleDefault, index)
 			if err != nil {
 				panic(err)
