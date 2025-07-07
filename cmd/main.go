@@ -6,4 +6,5 @@ import (
 
 func main() {
 	snake_game.RunGame()
+	println("server running")
 }
