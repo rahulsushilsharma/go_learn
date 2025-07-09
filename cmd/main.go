@@ -1,10 +1,11 @@
 package main
 
 import (
-	"go_learn/internal/snake_game"
+	"go_learn/internal/router"
 )
 
 func main() {
-	snake_game.RunGame()
-	println("server running")
+	// snake_game.RunGame()
+	engine := router.SetupRouter()
+	engine.Run(":8000")
 }
