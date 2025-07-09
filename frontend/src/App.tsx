@@ -1,35 +1,29 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [users, setUser] = useState<any[]>([])
+  async function getUsers(){
+    const user = await fetch('http://localhost:8000/users')
+    const json = await user.json()
+    console.log(json)
+    setUser(json)
+  }
   useEffect(()=>{
-    fetch('http://localhost:8000/api/users')
+    getUsers()
   },[])
   return (
     <>
       <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+        {
+          users.map(ele=>{
+            return <div key={ele?.id}>
+            <p>{ele.name}</p>
+            </div>
+          })
+        }
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      
     </>
   )
 }

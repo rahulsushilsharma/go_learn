@@ -19,7 +19,7 @@ func SetupRouter() *gin.Engine {
 		MaxAge:           12 * time.Hour,
 	}))
 
-	engine.GET("/api/users", handler.GetUsers)
-	engine.POST("/api/users", handler.CreateUser)
+	engine.GET("/users", handler.GetUsers)
+	engine.POST("/users", handler.CreateUser)
 	return engine
 }
