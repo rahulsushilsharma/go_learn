@@ -4,11 +4,12 @@ import (
 	"go_learn/internal/model"
 	"log"
 	"net/http"
-	"time"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/websocket"
 )
+
+var SocketConnection *websocket.Conn
 
 var upgrader = websocket.Upgrader{
 	ReadBufferSize:  1024,
@@ -27,21 +28,18 @@ func Socket(context *gin.Context) {
 	}
 
 	defer conn.Close()
-	go func() {
-		for {
-			_, _, err := conn.ReadMessage()
-			if err != nil {
-				log.Println("Read error:", err)
-				break
-			}
-		}
-	}()
+	SocketConnection = conn
+
 	for {
-		err := conn.WriteMessage(websocket.TextMessage, []byte("hello world"))
+
+		messageType, message, err := conn.ReadMessage()
 		if err != nil {
-			log.Println("Write error:", err)
+			log.Println("Read error:", err)
 			break
 		}
-		time.Sleep(5 * time.Second)
+
+		log.Println(messageType, string(message))
+
 	}
+
 }

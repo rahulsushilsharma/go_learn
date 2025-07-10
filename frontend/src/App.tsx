@@ -3,6 +3,7 @@ import './App.css'
 
 function App() {
   const [users, setUser] = useState<{id:number, name:string}[]>([])
+  const [socketConn, setSocketConn] = useState<WebSocket>()
   async function getUsers(){
     const user = await fetch('http://localhost:8000/users')
     const json = await user.json()
@@ -12,6 +13,7 @@ function App() {
   useEffect(() => {
     const socket = new WebSocket("ws://localhost:8000/ws");
   
+    
     socket.onopen = () => {
       console.log("Connected to WebSocket");
     };
@@ -27,6 +29,7 @@ function App() {
     socket.onclose = () => {
       console.log("WebSocket closed");
     };
+    setSocketConn(socket)
   
     return () => {
       socket.close();
@@ -70,7 +73,18 @@ function App() {
             <p>{ele.name}</p>
             </div>
           })
+
+
         }
+
+        <button onClick={()=>{
+          socketConn?.send('data')
+        }}>add</button>
+
+
+
+
+        
       </div>
       
     </>

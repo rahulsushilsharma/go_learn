@@ -4,3 +4,2304 @@
 2025/07/05 15:17:42 checkeating
 2025/07/05 15:17:48 checkeating
 2025/07/05 15:17:51 checkeating
+2025/07/10 19:33:15 Read error: websocket: close 1001 (going away)
+2025/07/10 19:33:18 1 data
+2025/07/10 19:33:19 1 data
+2025/07/10 19:33:19 1 data
+2025/07/10 19:33:20 Write error: websocket: close sent
+2025/07/10 19:33:20 1 data
+2025/07/10 19:33:21 1 data
+2025/07/10 19:33:21 1 data
+2025/07/10 19:33:53 1 data
+2025/07/10 19:33:53 1 data
+2025/07/10 19:33:54 1 data
+2025/07/10 19:33:54 1 data
+2025/07/10 19:33:54 1 data
+2025/07/10 19:33:55 1 data
+2025/07/10 19:33:56 1 data
+2025/07/10 19:33:56 1 data
+2025/07/10 19:33:56 1 data
+2025/07/10 19:33:57 1 data
+2025/07/10 19:33:57 1 data
+2025/07/10 19:33:57 1 data
+2025/07/10 19:33:57 1 data
+2025/07/10 19:33:57 1 data
+2025/07/10 20:43:03 Read error: read tcp [::1]:8000->[::1]:56119: use of closed network connection
+2025/07/10 20:43:03 Write error: write tcp [::1]:8000->[::1]:56119: use of closed network connection
+2025/07/10 20:43:03 Read error: read tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:04 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:04 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:04 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:04 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:04 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:04 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:04 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:04 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:04 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:05 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:05 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:05 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:05 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:05 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:05 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:05 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:05 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:05 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:05 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:06 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:06 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:06 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:06 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:06 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:06 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:06 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:06 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:06 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:07 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:07 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:07 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:07 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:07 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:07 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:07 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:07 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:07 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:07 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:08 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:08 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:08 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:08 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:08 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:08 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:08 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:08 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:08 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:08 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:09 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:09 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:09 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:09 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:09 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:09 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:09 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:09 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:09 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:10 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:10 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:10 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:10 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:10 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:10 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:10 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:10 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:10 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:10 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:11 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:11 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:11 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:11 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:11 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:11 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:11 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:11 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:11 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:11 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:12 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:12 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:12 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:12 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:12 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:12 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:12 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:12 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:12 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:13 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:13 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:13 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:13 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:13 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:13 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:13 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:13 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:13 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:13 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:14 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:14 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:14 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:14 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:14 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:14 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:14 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:14 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:14 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:14 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:15 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:15 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:15 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:15 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:15 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:15 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:15 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:15 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:15 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:16 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:16 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:16 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:16 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:16 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:16 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:16 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:16 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:16 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:16 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:17 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:17 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:17 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:17 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:17 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:17 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:17 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:17 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:17 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:17 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:18 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:18 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:18 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:18 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:18 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:18 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:18 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:18 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:18 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:19 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:19 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:19 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:19 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:19 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:19 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:19 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:19 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:19 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:19 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:20 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:20 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:20 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:20 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:20 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:20 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:20 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:20 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:20 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:20 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:21 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:21 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:21 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:21 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:21 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:21 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:21 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:21 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:21 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:22 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:22 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:22 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:22 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:22 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:22 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:22 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:22 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:22 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:22 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:23 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:23 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:23 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:23 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:23 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:23 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:23 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:23 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:23 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:24 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:24 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:24 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:24 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:24 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:24 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:24 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:24 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:24 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:24 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:25 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:25 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:25 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:25 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:25 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:25 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:25 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:25 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:25 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:25 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:26 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:26 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:26 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:26 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:26 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:26 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:26 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:26 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:26 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:27 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:27 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:27 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:27 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:27 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:27 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:27 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:27 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:27 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:27 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:28 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:28 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:28 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:28 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:28 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:28 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:28 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:28 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:28 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:29 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:29 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:29 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:29 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:29 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:29 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:29 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:29 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:29 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:29 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:30 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:30 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:30 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:30 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:30 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:30 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:30 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:30 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:30 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:30 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:31 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:31 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:31 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:31 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:31 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:31 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:31 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:31 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:31 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:32 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:32 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:32 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:32 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:32 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:32 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:32 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:32 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:32 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:32 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:33 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:33 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:33 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:33 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:33 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:33 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:33 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:33 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:33 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:34 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:34 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:34 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:34 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:34 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:34 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:34 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:34 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:34 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:34 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:35 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:35 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:35 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:35 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:35 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:35 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:35 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:35 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:35 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:35 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:36 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:36 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:36 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:36 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:36 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:36 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:36 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:36 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:36 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:37 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:37 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:37 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:37 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:37 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:37 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:37 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:37 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:37 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:37 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:38 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:38 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:38 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:38 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:38 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:38 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:38 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:38 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:38 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:39 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:39 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:39 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:39 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:39 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:39 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:39 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:39 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:39 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:39 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:40 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:40 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:40 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:40 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:40 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:40 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:40 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:40 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:40 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:40 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:41 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:41 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:41 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:41 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:41 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:41 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:41 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:41 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:41 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:42 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:42 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:42 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:42 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:42 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:42 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:42 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:42 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:42 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:42 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:43 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:43 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:43 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:43 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:43 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:43 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:43 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:43 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:43 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:44 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:44 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:44 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:44 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:44 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:44 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:44 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:44 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:44 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:44 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:45 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:45 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:45 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:45 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:45 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:45 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:45 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:45 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:45 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:45 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:46 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:46 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:46 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:46 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:46 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:46 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:46 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:46 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:46 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:47 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:47 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:47 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:47 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:47 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:47 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:47 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:47 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:47 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:47 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:48 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:48 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:48 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:48 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:48 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:48 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:48 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:48 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:48 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:49 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:49 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:49 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:49 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:49 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:49 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:49 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:49 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:49 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:49 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:50 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:50 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:50 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:50 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:50 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:50 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:50 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:50 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:50 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:50 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:51 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:51 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:51 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:51 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:51 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:51 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:51 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:51 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:51 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:52 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:52 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:52 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:52 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:52 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:52 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:52 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:52 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:52 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:52 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:53 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:53 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:53 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:53 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:53 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:53 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:53 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:53 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:53 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:54 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:54 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:54 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:54 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:54 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:54 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:54 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:54 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:54 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:54 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:55 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:55 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:55 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:55 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:55 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:55 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:55 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:55 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:55 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:55 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:56 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:56 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:56 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:56 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:56 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:56 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:56 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:56 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:56 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:57 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:57 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:57 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:57 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:57 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:57 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:57 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:57 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:57 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:57 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:58 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:58 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:58 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:58 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:58 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:58 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:58 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:58 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:58 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:59 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:59 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:59 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:59 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:59 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:59 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:59 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:59 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:59 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:43:59 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:00 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:00 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:00 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:00 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:00 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:00 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:00 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:00 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:00 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:01 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:01 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:01 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:01 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:01 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:01 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:01 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:01 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:01 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:01 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:02 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:02 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:02 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:02 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:02 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:02 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:02 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:02 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:02 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:03 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:44:04 Write error: write tcp [::1]:8000->[::1]:56121: use of closed network connection
+2025/07/10 20:46:07 Write error: <nil>
+2025/07/10 20:46:07 Write error: <nil>
+2025/07/10 20:46:08 Write error: <nil>
+2025/07/10 20:46:08 Write error: <nil>
+2025/07/10 20:46:08 Write error: <nil>
+2025/07/10 20:46:08 Write error: <nil>
+2025/07/10 20:46:08 Write error: <nil>
+2025/07/10 20:46:08 Write error: <nil>
+2025/07/10 20:46:08 Write error: <nil>
+2025/07/10 20:46:08 Write error: <nil>
+2025/07/10 20:46:08 Write error: <nil>
+2025/07/10 20:46:08 Write error: <nil>
+2025/07/10 20:46:09 Write error: <nil>
+2025/07/10 20:46:09 Write error: <nil>
+2025/07/10 20:46:09 Write error: <nil>
+2025/07/10 20:46:09 Write error: <nil>
+2025/07/10 20:46:09 Write error: <nil>
+2025/07/10 20:46:09 Write error: <nil>
+2025/07/10 20:46:09 Write error: <nil>
+2025/07/10 20:46:09 Write error: <nil>
+2025/07/10 20:46:09 Write error: <nil>
+2025/07/10 20:46:09 Write error: <nil>
+2025/07/10 20:46:10 Write error: <nil>
+2025/07/10 20:46:10 Write error: <nil>
+2025/07/10 20:46:10 Write error: <nil>
+2025/07/10 20:46:10 Write error: <nil>
+2025/07/10 20:46:10 Write error: <nil>
+2025/07/10 20:46:10 Write error: <nil>
+2025/07/10 20:46:10 Write error: <nil>
+2025/07/10 20:46:10 Write error: <nil>
+2025/07/10 20:46:10 Write error: <nil>
+2025/07/10 20:46:10 Write error: <nil>
+2025/07/10 20:46:11 Write error: <nil>
+2025/07/10 20:46:11 Write error: <nil>
+2025/07/10 20:46:11 Write error: <nil>
+2025/07/10 20:46:11 Write error: <nil>
+2025/07/10 20:46:11 Write error: <nil>
+2025/07/10 20:46:11 Write error: <nil>
+2025/07/10 20:46:11 Write error: <nil>
+2025/07/10 20:46:11 Write error: <nil>
+2025/07/10 20:46:11 Write error: <nil>
+2025/07/10 20:46:11 Write error: <nil>
+2025/07/10 20:46:12 Write error: <nil>
+2025/07/10 20:46:12 Write error: <nil>
+2025/07/10 20:46:12 Write error: <nil>
+2025/07/10 20:46:12 Write error: <nil>
+2025/07/10 20:46:12 Write error: <nil>
+2025/07/10 20:46:12 Write error: <nil>
+2025/07/10 20:46:12 Write error: <nil>
+2025/07/10 20:46:12 Write error: <nil>
+2025/07/10 20:46:12 Write error: <nil>
+2025/07/10 20:46:12 Write error: <nil>
+2025/07/10 20:46:13 Write error: <nil>
+2025/07/10 20:46:13 Write error: <nil>
+2025/07/10 20:46:13 Write error: <nil>
+2025/07/10 20:46:13 Write error: <nil>
+2025/07/10 20:46:13 Write error: <nil>
+2025/07/10 20:46:13 Write error: <nil>
+2025/07/10 20:46:13 Write error: <nil>
+2025/07/10 20:46:13 Write error: <nil>
+2025/07/10 20:46:13 Write error: <nil>
+2025/07/10 20:46:13 Write error: <nil>
+2025/07/10 20:46:14 Write error: <nil>
+2025/07/10 20:46:14 Write error: <nil>
+2025/07/10 20:46:14 Write error: <nil>
+2025/07/10 20:46:14 Write error: <nil>
+2025/07/10 20:46:14 Write error: <nil>
+2025/07/10 20:46:14 Write error: <nil>
+2025/07/10 20:46:14 Write error: <nil>
+2025/07/10 20:46:14 Write error: <nil>
+2025/07/10 20:46:14 Write error: <nil>
+2025/07/10 20:46:14 Write error: <nil>
+2025/07/10 20:46:15 Write error: <nil>
+2025/07/10 20:46:15 Write error: <nil>
+2025/07/10 20:46:15 Write error: <nil>
+2025/07/10 20:46:15 Write error: <nil>
+2025/07/10 20:46:15 Write error: <nil>
+2025/07/10 20:46:15 Write error: <nil>
+2025/07/10 20:46:15 Write error: <nil>
+2025/07/10 20:46:15 Write error: <nil>
+2025/07/10 20:46:15 Write error: <nil>
+2025/07/10 20:46:16 Write error: <nil>
+2025/07/10 20:46:16 Write error: <nil>
+2025/07/10 20:46:16 Write error: <nil>
+2025/07/10 20:46:16 Write error: <nil>
+2025/07/10 20:46:16 Write error: <nil>
+2025/07/10 20:46:16 Write error: <nil>
+2025/07/10 20:46:16 Write error: <nil>
+2025/07/10 20:46:16 Write error: <nil>
+2025/07/10 20:46:16 Write error: <nil>
+2025/07/10 20:46:16 Write error: <nil>
+2025/07/10 20:46:17 Write error: <nil>
+2025/07/10 20:46:17 Write error: <nil>
+2025/07/10 20:46:17 Write error: <nil>
+2025/07/10 20:46:17 Write error: <nil>
+2025/07/10 20:46:17 Write error: <nil>
+2025/07/10 20:46:17 Write error: <nil>
+2025/07/10 20:46:17 Write error: <nil>
+2025/07/10 20:46:17 Write error: <nil>
+2025/07/10 20:46:17 Write error: <nil>
+2025/07/10 20:46:17 Write error: <nil>
+2025/07/10 20:46:18 Write error: <nil>
+2025/07/10 20:46:18 Write error: <nil>
+2025/07/10 20:46:18 Write error: <nil>
+2025/07/10 20:46:18 Write error: <nil>
+2025/07/10 20:46:18 Write error: <nil>
+2025/07/10 20:46:18 Write error: <nil>
+2025/07/10 20:46:18 Write error: <nil>
+2025/07/10 20:46:18 Write error: <nil>
+2025/07/10 20:46:18 Write error: <nil>
+2025/07/10 20:46:18 Write error: <nil>
+2025/07/10 20:46:19 Write error: <nil>
+2025/07/10 20:46:19 Write error: <nil>
+2025/07/10 20:46:19 Write error: <nil>
+2025/07/10 20:46:19 Write error: <nil>
+2025/07/10 20:46:19 Write error: <nil>
+2025/07/10 20:46:19 Write error: <nil>
+2025/07/10 20:46:19 Write error: <nil>
+2025/07/10 20:46:19 Write error: <nil>
+2025/07/10 20:46:19 Write error: <nil>
+2025/07/10 20:46:19 Write error: <nil>
+2025/07/10 20:46:20 Write error: <nil>
+2025/07/10 20:46:20 Write error: <nil>
+2025/07/10 20:46:20 Read error: read tcp [::1]:8000->[::1]:58566: use of closed network connection
+2025/07/10 20:46:20 Read error: read tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:23 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:23 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:23 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:23 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:23 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:23 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:23 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:23 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:23 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:23 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:24 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:24 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:24 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:24 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:24 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:24 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:24 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:24 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:24 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:25 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:25 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:25 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:25 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:25 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:25 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:25 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:25 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:25 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:25 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:26 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:26 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:26 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:26 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:26 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:26 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:26 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:26 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:26 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:26 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:27 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:27 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:27 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:27 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:27 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:27 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:27 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:27 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:27 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:27 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:28 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:28 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:28 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:28 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:28 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:28 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:28 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:28 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:28 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:28 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:29 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:29 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:29 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:29 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:29 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:29 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:29 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:29 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:29 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:29 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:30 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:30 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:30 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:30 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:30 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:30 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:30 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:30 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:30 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:30 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:31 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:31 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:31 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:31 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:31 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:31 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:31 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:31 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:31 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:31 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:32 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:32 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:32 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:32 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:32 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:32 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:32 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:32 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:32 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:32 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:33 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:33 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:33 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:33 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:33 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:33 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:33 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:33 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:33 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:34 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:34 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:34 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:34 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:34 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:34 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:34 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:34 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:34 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:34 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:35 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:35 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:35 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:35 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:35 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:35 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:35 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:35 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:35 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:35 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:36 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:36 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:36 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:36 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:36 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:36 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:36 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:36 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:36 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:36 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:37 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:37 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:37 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:37 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:37 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:37 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:37 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:37 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:37 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:37 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:38 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:38 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:38 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:38 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:38 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:38 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:38 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:38 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:38 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:38 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:39 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:39 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:39 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:39 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:39 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:39 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:39 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:39 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:39 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:39 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:40 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:40 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:40 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:40 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:40 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:40 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:40 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:40 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:40 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:40 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:41 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:41 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:41 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:41 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:41 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:41 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:41 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:41 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:41 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:41 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:42 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:42 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:42 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:42 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:42 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:42 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:42 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:42 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:42 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:43 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:43 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:43 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:43 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:43 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:43 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:43 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:43 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:43 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:43 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:44 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:44 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:44 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:44 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:44 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:44 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:44 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:44 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:44 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:44 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:45 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:45 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:45 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:45 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:45 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:45 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:45 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:45 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:45 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:45 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:46 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:46 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:46 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:46 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:46 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:46 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:46 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:46 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:46 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:46 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:47 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:47 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:47 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:47 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:47 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:47 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:47 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:47 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:47 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:47 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:48 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:48 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:48 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:48 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:48 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:48 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:48 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:48 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:48 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:48 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:49 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:49 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:49 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:49 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:49 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:49 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:49 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:49 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:49 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:49 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:50 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:50 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:50 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:50 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:50 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:50 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:50 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:50 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:50 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:51 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:51 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:51 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:51 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:51 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:51 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:51 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:51 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:51 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:51 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:52 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:52 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:52 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:52 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:52 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:52 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:52 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:52 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:52 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:52 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:53 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:53 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:53 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:53 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:53 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:53 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:53 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:53 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:53 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:53 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:54 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:54 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:54 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:54 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:54 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:54 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:54 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:54 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:54 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:54 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:55 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:55 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:55 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:55 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:55 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:55 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:55 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:55 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:55 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:55 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:56 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:56 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:56 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:56 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:56 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:56 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:56 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:56 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:56 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:56 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:57 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:57 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:57 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:57 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:57 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:57 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:57 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:57 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:57 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:57 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:58 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:58 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:58 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:58 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:58 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:58 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:58 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:58 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:58 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:58 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:59 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:59 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:59 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:59 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:59 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:59 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:59 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:59 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:46:59 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:00 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:00 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:00 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:00 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:00 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:00 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:00 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:00 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:00 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:00 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:01 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:01 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:01 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:01 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:01 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:01 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:01 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:01 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:01 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:01 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:02 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:02 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:02 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:02 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:02 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:02 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:02 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:02 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:02 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:02 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:03 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:03 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:03 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:03 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:03 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:03 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:03 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:03 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:03 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:03 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:04 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:04 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:04 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:04 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:04 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:04 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:04 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:04 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:04 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:04 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:05 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:05 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:05 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:05 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:05 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:05 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:05 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:05 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:05 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:05 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:06 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:06 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:06 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:06 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:06 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:06 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:06 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:06 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:06 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:06 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:07 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:07 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:07 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:07 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:07 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:07 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:07 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:07 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:07 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:08 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:08 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:08 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:08 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:08 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:08 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:08 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:08 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:08 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:08 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:09 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:09 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:09 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:09 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:09 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:09 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:09 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:09 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:09 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:09 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:10 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:10 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:10 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:10 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:10 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:10 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:10 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:10 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:10 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:10 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:11 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:11 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:11 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:11 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:11 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:11 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:11 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:11 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:11 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:11 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:12 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:12 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:12 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:12 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:12 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:12 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:12 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:12 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:12 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:12 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:13 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:13 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:13 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:13 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:13 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:13 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:13 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:13 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:13 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:13 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:14 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:14 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:14 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:14 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:14 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:14 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:14 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:14 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:14 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:14 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:15 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:15 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:15 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:15 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:15 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:15 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:15 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:15 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:15 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:15 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:16 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:16 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:16 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:16 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:16 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:16 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:16 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:16 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:16 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:17 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:17 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:17 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:17 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:17 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:17 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:17 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:17 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:17 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:17 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:18 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:18 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:18 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:18 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:18 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:18 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:18 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:18 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:18 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:18 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:19 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:19 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:19 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:19 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:19 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:19 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:19 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:19 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:19 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:19 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:20 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:21 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 20:47:22 Write error: write tcp [::1]:8000->[::1]:58569: use of closed network connection
+2025/07/10 21:15:23 Write error: <nil>
+2025/07/10 21:15:23 Write error: <nil>
+2025/07/10 21:15:23 Write error: <nil>
+2025/07/10 21:15:24 Write error: <nil>
+2025/07/10 21:15:24 Write error: <nil>
+2025/07/10 21:15:24 Write error: <nil>
+2025/07/10 21:15:24 Write error: <nil>
+2025/07/10 21:15:24 Write error: <nil>
+2025/07/10 21:15:24 Write error: <nil>
+2025/07/10 21:15:24 Write error: <nil>
+2025/07/10 21:15:24 Write error: <nil>
+2025/07/10 21:15:24 Write error: <nil>
+2025/07/10 21:15:25 Write error: <nil>
+2025/07/10 21:15:25 Write error: <nil>
+2025/07/10 21:15:25 Write error: <nil>
+2025/07/10 21:15:25 Write error: <nil>
+2025/07/10 21:15:25 Write error: <nil>
+2025/07/10 21:15:25 Write error: <nil>
+2025/07/10 21:15:25 Write error: <nil>
+2025/07/10 21:15:25 Write error: <nil>
+2025/07/10 21:15:25 Write error: <nil>
+2025/07/10 21:15:25 Write error: <nil>
+2025/07/10 21:15:26 Write error: <nil>
+2025/07/10 21:15:26 Write error: <nil>
+2025/07/10 21:15:26 Write error: <nil>
+2025/07/10 21:15:26 Write error: <nil>
+2025/07/10 21:15:26 Write error: <nil>
+2025/07/10 21:15:26 Write error: <nil>
+2025/07/10 21:15:26 Write error: <nil>
+2025/07/10 21:15:26 Write error: <nil>
+2025/07/10 21:15:26 Write error: <nil>
+2025/07/10 21:15:26 Write error: <nil>
+2025/07/10 21:15:27 Write error: <nil>
+2025/07/10 21:15:27 Write error: <nil>
+2025/07/10 21:15:27 Write error: <nil>
+2025/07/10 21:15:27 Write error: <nil>
+2025/07/10 21:15:27 Write error: <nil>
+2025/07/10 21:15:27 Write error: <nil>
+2025/07/10 21:15:27 Write error: <nil>
+2025/07/10 21:15:27 Write error: <nil>
+2025/07/10 21:15:27 Write error: <nil>
+2025/07/10 21:15:27 Write error: <nil>
+2025/07/10 21:15:28 Write error: <nil>
+2025/07/10 21:15:28 Write error: <nil>
+2025/07/10 21:15:28 Write error: <nil>
+2025/07/10 21:15:28 Write error: <nil>
+2025/07/10 21:15:28 Write error: <nil>
+2025/07/10 21:15:28 Write error: <nil>
+2025/07/10 21:15:28 Write error: <nil>
+2025/07/10 21:15:28 Write error: <nil>
+2025/07/10 21:15:28 Write error: <nil>
+2025/07/10 21:15:28 Write error: <nil>
+2025/07/10 21:15:29 Write error: <nil>
+2025/07/10 21:15:29 Write error: <nil>
+2025/07/10 21:15:29 Write error: <nil>
+2025/07/10 21:15:29 Write error: <nil>
+2025/07/10 21:15:29 Write error: <nil>
+2025/07/10 21:15:29 Write error: <nil>
+2025/07/10 21:15:29 Write error: <nil>
+2025/07/10 21:15:29 Write error: <nil>
+2025/07/10 21:15:29 Write error: <nil>
+2025/07/10 21:15:29 Write error: <nil>
+2025/07/10 21:15:30 Write error: <nil>
+2025/07/10 21:15:30 Write error: <nil>
+2025/07/10 21:15:30 Write error: <nil>
+2025/07/10 21:15:30 Write error: <nil>
+2025/07/10 21:15:30 Write error: <nil>
+2025/07/10 21:15:30 Write error: <nil>
+2025/07/10 21:15:30 Write error: <nil>
+2025/07/10 21:15:30 Write error: <nil>
+2025/07/10 21:15:30 Write error: <nil>
+2025/07/10 21:15:30 Write error: <nil>
+2025/07/10 21:15:31 Write error: <nil>
+2025/07/10 21:15:31 Write error: <nil>
+2025/07/10 21:15:31 Write error: <nil>
+2025/07/10 21:15:31 Write error: <nil>
+2025/07/10 21:15:31 Write error: <nil>
+2025/07/10 21:15:31 Write error: <nil>
+2025/07/10 21:15:31 Write error: <nil>
+2025/07/10 21:15:31 Write error: <nil>
+2025/07/10 21:15:31 Write error: <nil>
+2025/07/10 21:15:31 Write error: <nil>
+2025/07/10 21:15:32 Write error: <nil>
+2025/07/10 21:15:32 Write error: <nil>
+2025/07/10 21:15:32 Write error: <nil>
+2025/07/10 21:15:32 Write error: <nil>
+2025/07/10 21:15:32 Write error: <nil>
+2025/07/10 21:15:32 Write error: <nil>
+2025/07/10 21:15:32 Write error: <nil>
+2025/07/10 21:15:32 Write error: <nil>
+2025/07/10 21:15:32 Write error: <nil>
+2025/07/10 21:15:33 Write error: <nil>
+2025/07/10 21:15:33 Write error: <nil>
+2025/07/10 21:15:33 Write error: <nil>
+2025/07/10 21:15:33 Write error: <nil>
+2025/07/10 21:15:33 Write error: <nil>
+2025/07/10 21:15:33 Read error: websocket: close 1001 (going away)
+2025/07/10 21:15:33 Write error: websocket: close sent
+2025/07/10 21:15:33 Write error: websocket: close sent
+2025/07/10 21:15:33 Write error: websocket: close sent
+2025/07/10 21:15:33 Write error: websocket: close sent
+2025/07/10 21:15:33 Write error: websocket: close sent
+2025/07/10 21:15:34 Write error: websocket: close sent
+2025/07/10 21:15:34 Write error: websocket: close sent
+2025/07/10 21:15:34 Write error: websocket: close sent
+2025/07/10 21:15:34 Write error: websocket: close sent
+2025/07/10 21:15:34 Write error: websocket: close sent
+2025/07/10 21:15:34 Write error: websocket: close sent
+2025/07/10 21:15:34 Write error: websocket: close sent
+2025/07/10 21:15:34 Write error: websocket: close sent
+2025/07/10 21:15:34 Write error: websocket: close sent
+2025/07/10 21:15:34 Write error: websocket: close sent
+2025/07/10 21:15:35 Write error: websocket: close sent
+2025/07/10 21:15:35 Write error: websocket: close sent
+2025/07/10 21:15:35 Write error: websocket: close sent
+2025/07/10 21:15:35 Write error: websocket: close sent
+2025/07/10 21:15:35 Write error: websocket: close sent
+2025/07/10 21:15:35 Write error: websocket: close sent
+2025/07/10 21:15:35 Write error: websocket: close sent
+2025/07/10 21:15:35 Write error: websocket: close sent
+2025/07/10 21:15:35 Write error: websocket: close sent
+2025/07/10 21:15:35 Write error: websocket: close sent
+2025/07/10 21:15:36 Write error: websocket: close sent
+2025/07/10 21:15:36 Write error: websocket: close sent
+2025/07/10 21:15:36 Write error: websocket: close sent
+2025/07/10 21:15:36 Write error: websocket: close sent
+2025/07/10 21:15:36 Write error: websocket: close sent
+2025/07/10 21:15:36 Write error: websocket: close sent
+2025/07/10 21:15:36 Write error: websocket: close sent
+2025/07/10 21:15:36 Write error: websocket: close sent
+2025/07/10 21:15:36 Write error: websocket: close sent
+2025/07/10 21:15:36 Write error: websocket: close sent
+2025/07/10 21:15:37 Write error: websocket: close sent
+2025/07/10 21:15:37 Write error: websocket: close sent
+2025/07/10 21:15:37 Write error: websocket: close sent
+2025/07/10 21:15:37 Write error: websocket: close sent
+2025/07/10 21:15:37 Write error: websocket: close sent
+2025/07/10 21:15:37 Write error: websocket: close sent
+2025/07/10 21:15:37 Write error: websocket: close sent
+2025/07/10 21:15:37 Write error: websocket: close sent
+2025/07/10 21:15:37 Write error: websocket: close sent
+2025/07/10 21:15:37 Write error: websocket: close sent
+2025/07/10 21:15:38 Write error: websocket: close sent
+2025/07/10 21:15:38 Write error: websocket: close sent
+2025/07/10 21:15:38 Write error: websocket: close sent
+2025/07/10 21:15:38 Write error: websocket: close sent
+2025/07/10 21:15:38 Write error: websocket: close sent
+2025/07/10 21:15:38 Write error: websocket: close sent
+2025/07/10 21:15:38 Write error: websocket: close sent
+2025/07/10 21:15:38 Write error: websocket: close sent
+2025/07/10 21:15:38 Write error: websocket: close sent
+2025/07/10 21:15:38 Write error: websocket: close sent
+2025/07/10 21:15:39 Write error: websocket: close sent
+2025/07/10 21:15:39 Write error: websocket: close sent
+2025/07/10 21:15:39 Write error: websocket: close sent
+2025/07/10 21:15:39 Write error: websocket: close sent
+2025/07/10 21:15:39 Write error: websocket: close sent
+2025/07/10 21:15:39 Write error: websocket: close sent
+2025/07/10 21:15:39 Write error: websocket: close sent
+2025/07/10 21:15:39 Write error: websocket: close sent
+2025/07/10 21:15:39 Write error: websocket: close sent
+2025/07/10 21:15:39 Write error: websocket: close sent
+2025/07/10 21:15:40 Write error: websocket: close sent
+2025/07/10 21:15:40 Write error: websocket: close sent
+2025/07/10 21:15:40 Write error: websocket: close sent
+2025/07/10 21:15:40 Write error: websocket: close sent
+2025/07/10 21:15:40 Write error: websocket: close sent
+2025/07/10 21:15:40 Write error: websocket: close sent
+2025/07/10 21:15:40 Write error: websocket: close sent
+2025/07/10 21:15:40 Write error: websocket: close sent
+2025/07/10 21:15:40 Write error: websocket: close sent
+2025/07/10 21:15:41 Write error: websocket: close sent
+2025/07/10 21:15:41 Write error: websocket: close sent
+2025/07/10 21:15:41 Write error: websocket: close sent
+2025/07/10 21:15:41 Write error: websocket: close sent
+2025/07/10 21:15:41 Write error: websocket: close sent
+2025/07/10 21:15:41 Write error: websocket: close sent
+2025/07/10 21:15:41 Write error: websocket: close sent
+2025/07/10 21:15:41 Write error: websocket: close sent
+2025/07/10 21:15:41 Write error: websocket: close sent
+2025/07/10 21:15:41 Write error: websocket: close sent
+2025/07/10 21:15:42 Write error: websocket: close sent
+2025/07/10 21:15:42 Write error: websocket: close sent
+2025/07/10 21:15:42 Write error: websocket: close sent
+2025/07/10 21:15:42 Write error: websocket: close sent
+2025/07/10 21:15:42 Write error: websocket: close sent
+2025/07/10 21:15:42 Write error: websocket: close sent
+2025/07/10 21:15:42 Write error: websocket: close sent
+2025/07/10 21:15:42 Write error: websocket: close sent
+2025/07/10 21:15:42 Write error: websocket: close sent
+2025/07/10 21:15:42 Write error: websocket: close sent
+2025/07/10 21:15:43 Write error: websocket: close sent
+2025/07/10 21:15:43 Write error: websocket: close sent
+2025/07/10 21:15:43 Write error: websocket: close sent
+2025/07/10 21:15:43 Write error: websocket: close sent
+2025/07/10 21:15:43 Write error: websocket: close sent
+2025/07/10 21:15:43 Write error: websocket: close sent
+2025/07/10 21:15:43 Write error: websocket: close sent
+2025/07/10 21:15:43 Write error: websocket: close sent
+2025/07/10 21:15:43 Write error: websocket: close sent
+2025/07/10 21:15:43 Write error: websocket: close sent
+2025/07/10 21:15:44 Write error: websocket: close sent
+2025/07/10 21:15:44 Write error: websocket: close sent
+2025/07/10 21:15:44 Write error: websocket: close sent
+2025/07/10 21:15:44 Write error: websocket: close sent
+2025/07/10 21:15:44 Write error: websocket: close sent
+2025/07/10 21:15:44 Write error: websocket: close sent
+2025/07/10 21:15:44 Write error: websocket: close sent
+2025/07/10 21:15:44 Write error: websocket: close sent
+2025/07/10 21:15:44 Write error: websocket: close sent
+2025/07/10 21:15:44 Write error: websocket: close sent
+2025/07/10 21:15:45 Write error: websocket: close sent
+2025/07/10 21:15:45 Write error: websocket: close sent
+2025/07/10 21:15:45 Write error: websocket: close sent
+2025/07/10 21:15:45 Write error: websocket: close sent
+2025/07/10 21:15:45 Write error: websocket: close sent
+2025/07/10 21:15:45 Write error: websocket: close sent
+2025/07/10 21:15:45 Write error: websocket: close sent
+2025/07/10 21:15:45 Write error: websocket: close sent
+2025/07/10 21:15:45 Write error: websocket: close sent
+2025/07/10 21:15:45 Write error: websocket: close sent
+2025/07/10 21:15:46 Write error: websocket: close sent
+2025/07/10 21:15:46 Write error: websocket: close sent
+2025/07/10 21:15:46 Write error: websocket: close sent
+2025/07/10 21:15:46 Write error: websocket: close sent
+2025/07/10 21:15:46 Write error: websocket: close sent
+2025/07/10 21:15:46 Write error: websocket: close sent
+2025/07/10 21:15:46 Write error: websocket: close sent
+2025/07/10 21:15:46 Write error: websocket: close sent
+2025/07/10 21:15:46 Write error: websocket: close sent
+2025/07/10 21:15:46 Write error: websocket: close sent
+2025/07/10 21:15:47 Write error: websocket: close sent
+2025/07/10 21:15:47 Write error: websocket: close sent
+2025/07/10 21:15:47 Write error: websocket: close sent
+2025/07/10 21:15:47 Write error: websocket: close sent
+2025/07/10 21:15:47 Write error: websocket: close sent
+2025/07/10 21:15:47 Write error: websocket: close sent
+2025/07/10 21:15:47 Write error: websocket: close sent
+2025/07/10 21:15:47 Write error: websocket: close sent
+2025/07/10 21:15:47 Write error: websocket: close sent
+2025/07/10 21:15:47 Write error: websocket: close sent
+2025/07/10 21:15:48 Write error: websocket: close sent
+2025/07/10 21:15:48 Write error: websocket: close sent
+2025/07/10 21:15:48 Write error: websocket: close sent
+2025/07/10 21:15:48 Write error: websocket: close sent
+2025/07/10 21:15:48 Write error: websocket: close sent
+2025/07/10 21:15:48 Write error: websocket: close sent
+2025/07/10 21:15:48 Write error: websocket: close sent
+2025/07/10 21:15:48 Write error: websocket: close sent
+2025/07/10 21:15:48 Write error: websocket: close sent
+2025/07/10 21:15:49 Write error: websocket: close sent
+2025/07/10 21:15:49 Write error: websocket: close sent
+2025/07/10 21:15:49 Write error: websocket: close sent
+2025/07/10 21:15:49 Write error: websocket: close sent
+2025/07/10 21:15:49 Write error: websocket: close sent
+2025/07/10 21:15:49 Write error: websocket: close sent
+2025/07/10 21:15:49 Write error: websocket: close sent
+2025/07/10 21:15:49 Write error: websocket: close sent
+2025/07/10 21:15:49 Write error: websocket: close sent
+2025/07/10 21:15:49 Write error: websocket: close sent
+2025/07/10 21:15:50 Write error: websocket: close sent
+2025/07/10 21:15:50 Write error: websocket: close sent
+2025/07/10 21:15:50 Write error: websocket: close sent
+2025/07/10 21:15:50 Write error: websocket: close sent
+2025/07/10 21:15:50 Write error: websocket: close sent
+2025/07/10 21:15:50 Write error: websocket: close sent
+2025/07/10 21:15:50 Write error: websocket: close sent
+2025/07/10 21:15:50 Write error: websocket: close sent
+2025/07/10 21:15:50 Write error: websocket: close sent
+2025/07/10 21:15:50 Write error: websocket: close sent
+2025/07/10 21:15:51 Write error: websocket: close sent
+2025/07/10 21:15:51 Write error: websocket: close sent
+2025/07/10 21:15:51 Write error: websocket: close sent
+2025/07/10 21:15:51 Write error: websocket: close sent
+2025/07/10 21:15:51 Write error: websocket: close sent
+2025/07/10 21:15:51 Write error: websocket: close sent
+2025/07/10 21:15:51 Write error: websocket: close sent
+2025/07/10 21:15:51 Write error: websocket: close sent
+2025/07/10 21:15:51 Write error: websocket: close sent
+2025/07/10 21:15:51 Write error: websocket: close sent
+2025/07/10 21:15:52 Write error: websocket: close sent
+2025/07/10 21:15:52 Write error: websocket: close sent
+2025/07/10 21:15:52 Write error: websocket: close sent
+2025/07/10 21:15:52 Write error: websocket: close sent
+2025/07/10 21:15:52 Write error: websocket: close sent
+2025/07/10 21:15:52 Write error: websocket: close sent
+2025/07/10 21:15:52 Write error: websocket: close sent
+2025/07/10 21:15:52 Write error: websocket: close sent
+2025/07/10 21:15:52 Write error: websocket: close sent
+2025/07/10 21:15:52 Write error: websocket: close sent
+2025/07/10 21:15:53 Write error: websocket: close sent
+2025/07/10 21:15:53 Write error: websocket: close sent
+2025/07/10 21:15:53 Write error: websocket: close sent
+2025/07/10 21:15:53 Write error: websocket: close sent
+2025/07/10 21:15:53 Write error: websocket: close sent
+2025/07/10 21:15:53 Write error: websocket: close sent
+2025/07/10 21:15:53 Write error: websocket: close sent
+2025/07/10 21:15:53 Write error: websocket: close sent
+2025/07/10 21:15:53 Write error: websocket: close sent
+2025/07/10 21:15:53 Write error: websocket: close sent
+2025/07/10 21:15:54 Write error: websocket: close sent
+2025/07/10 21:15:54 Write error: websocket: close sent
+2025/07/10 21:15:54 Write error: websocket: close sent
+2025/07/10 21:15:54 Write error: websocket: close sent
+2025/07/10 21:15:54 Write error: websocket: close sent
+2025/07/10 21:15:54 Write error: websocket: close sent
+2025/07/10 21:15:54 Write error: websocket: close sent
+2025/07/10 21:15:54 Write error: websocket: close sent
+2025/07/10 21:15:54 Write error: websocket: close sent
+2025/07/10 21:15:54 Write error: websocket: close sent
+2025/07/10 21:15:55 Write error: websocket: close sent
+2025/07/10 21:15:55 Write error: websocket: close sent
+2025/07/10 21:15:55 Write error: websocket: close sent
+2025/07/10 21:15:55 Write error: websocket: close sent
+2025/07/10 21:15:55 Write error: websocket: close sent
+2025/07/10 21:15:55 Write error: websocket: close sent
+2025/07/10 21:15:55 Write error: websocket: close sent
+2025/07/10 21:15:55 Write error: websocket: close sent
+2025/07/10 21:15:55 Write error: websocket: close sent
+2025/07/10 21:15:55 Write error: websocket: close sent
+2025/07/10 21:15:56 Write error: websocket: close sent
+2025/07/10 21:15:56 Write error: websocket: close sent
+2025/07/10 21:15:56 Write error: websocket: close sent
+2025/07/10 21:15:56 Write error: websocket: close sent
+2025/07/10 21:15:56 Write error: websocket: close sent
+2025/07/10 21:15:56 Write error: websocket: close sent
+2025/07/10 21:15:56 Write error: websocket: close sent
+2025/07/10 21:15:56 Write error: websocket: close sent
+2025/07/10 21:15:56 Write error: websocket: close sent
+2025/07/10 21:15:57 Write error: websocket: close sent
+2025/07/10 21:15:57 Write error: websocket: close sent
+2025/07/10 21:15:57 Write error: websocket: close sent
+2025/07/10 21:15:57 Write error: websocket: close sent
+2025/07/10 21:15:57 Write error: websocket: close sent
+2025/07/10 21:15:57 Write error: websocket: close sent
+2025/07/10 21:15:57 Write error: websocket: close sent
+2025/07/10 21:15:57 Write error: websocket: close sent
+2025/07/10 21:15:57 Write error: websocket: close sent
+2025/07/10 21:15:57 Write error: websocket: close sent
+2025/07/10 21:15:58 Write error: websocket: close sent
+2025/07/10 21:15:58 Write error: websocket: close sent
+2025/07/10 21:15:58 Write error: websocket: close sent
+2025/07/10 21:15:58 Write error: websocket: close sent
+2025/07/10 21:15:58 Write error: websocket: close sent
+2025/07/10 21:15:58 Write error: websocket: close sent
+2025/07/10 21:15:58 Write error: websocket: close sent
+2025/07/10 21:15:58 Write error: websocket: close sent
+2025/07/10 21:15:58 Write error: websocket: close sent
+2025/07/10 21:15:58 Write error: websocket: close sent
+2025/07/10 21:15:59 Write error: websocket: close sent
+2025/07/10 21:15:59 Write error: websocket: close sent
+2025/07/10 21:15:59 Write error: websocket: close sent
+2025/07/10 21:15:59 Write error: websocket: close sent
+2025/07/10 21:15:59 Write error: websocket: close sent
+2025/07/10 21:15:59 Write error: websocket: close sent
+2025/07/10 21:15:59 Write error: websocket: close sent
+2025/07/10 21:15:59 Write error: websocket: close sent
+2025/07/10 21:15:59 Write error: websocket: close sent
+2025/07/10 21:15:59 Write error: websocket: close sent
+2025/07/10 21:16:00 Write error: websocket: close sent
+2025/07/10 21:16:00 Write error: websocket: close sent
+2025/07/10 21:16:00 Write error: websocket: close sent
+2025/07/10 21:16:00 Write error: websocket: close sent
+2025/07/10 21:16:00 Write error: websocket: close sent
+2025/07/10 21:16:00 Write error: websocket: close sent
+2025/07/10 21:16:00 Write error: websocket: close sent
+2025/07/10 21:16:00 Write error: websocket: close sent
+2025/07/10 21:16:00 Write error: websocket: close sent
+2025/07/10 21:16:00 Write error: websocket: close sent
+2025/07/10 21:16:01 Write error: websocket: close sent
+2025/07/10 21:16:01 Write error: websocket: close sent
+2025/07/10 21:16:01 Write error: websocket: close sent
+2025/07/10 21:16:01 Write error: websocket: close sent
+2025/07/10 21:16:01 Write error: websocket: close sent
+2025/07/10 21:16:01 Write error: websocket: close sent
+2025/07/10 21:16:01 Write error: websocket: close sent
+2025/07/10 21:16:01 Write error: websocket: close sent
+2025/07/10 21:16:01 Write error: websocket: close sent
+2025/07/10 21:16:01 Write error: websocket: close sent
+2025/07/10 21:16:02 Write error: websocket: close sent
+2025/07/10 21:16:02 Write error: websocket: close sent
+2025/07/10 21:16:02 Write error: websocket: close sent
+2025/07/10 21:16:02 Write error: websocket: close sent
+2025/07/10 21:16:02 Write error: websocket: close sent
+2025/07/10 21:16:02 Write error: websocket: close sent
+2025/07/10 21:16:02 Write error: websocket: close sent
+2025/07/10 21:16:02 Write error: websocket: close sent
+2025/07/10 21:16:02 Write error: websocket: close sent
+2025/07/10 21:16:02 Write error: websocket: close sent
+2025/07/10 21:16:03 Write error: websocket: close sent
+2025/07/10 21:16:03 Write error: websocket: close sent
+2025/07/10 21:16:03 Write error: websocket: close sent
+2025/07/10 21:16:03 Write error: websocket: close sent
+2025/07/10 21:16:03 Write error: websocket: close sent
+2025/07/10 21:16:03 Write error: websocket: close sent
+2025/07/10 21:16:03 Write error: websocket: close sent
+2025/07/10 21:16:03 Write error: websocket: close sent
+2025/07/10 21:16:03 Write error: websocket: close sent
+2025/07/10 21:16:03 Write error: websocket: close sent
+2025/07/10 21:16:04 Write error: websocket: close sent
+2025/07/10 21:16:04 Write error: websocket: close sent
+2025/07/10 21:16:04 Write error: websocket: close sent
+2025/07/10 21:16:04 Write error: websocket: close sent
+2025/07/10 21:16:04 Write error: websocket: close sent
+2025/07/10 21:16:04 Write error: websocket: close sent
+2025/07/10 21:16:04 Write error: websocket: close sent
+2025/07/10 21:16:04 Write error: websocket: close sent
+2025/07/10 21:16:04 Write error: websocket: close sent
+2025/07/10 21:16:05 Write error: websocket: close sent
+2025/07/10 21:16:05 Write error: websocket: close sent
+2025/07/10 21:16:05 Write error: websocket: close sent
+2025/07/10 21:16:05 Write error: websocket: close sent
+2025/07/10 21:16:05 Write error: websocket: close sent
+2025/07/10 21:16:05 Write error: websocket: close sent
+2025/07/10 21:16:05 Write error: websocket: close sent
+2025/07/10 21:16:05 Write error: websocket: close sent
+2025/07/10 21:16:05 Write error: websocket: close sent
+2025/07/10 21:16:05 Write error: websocket: close sent
+2025/07/10 21:16:06 Write error: websocket: close sent
+2025/07/10 21:16:06 Write error: websocket: close sent
+2025/07/10 21:16:06 Write error: websocket: close sent
+2025/07/10 21:16:06 Write error: websocket: close sent
+2025/07/10 21:16:06 Write error: websocket: close sent
+2025/07/10 21:16:06 Write error: websocket: close sent
+2025/07/10 21:16:06 Write error: websocket: close sent
+2025/07/10 21:16:06 Write error: websocket: close sent
+2025/07/10 21:16:06 Write error: websocket: close sent
+2025/07/10 21:16:06 Write error: websocket: close sent
+2025/07/10 21:16:07 Write error: websocket: close sent
+2025/07/10 21:16:07 Write error: websocket: close sent
+2025/07/10 21:16:07 Write error: websocket: close sent
+2025/07/10 21:16:07 Write error: websocket: close sent
+2025/07/10 21:16:07 Write error: websocket: close sent
+2025/07/10 21:16:07 Write error: websocket: close sent
+2025/07/10 21:16:07 Write error: websocket: close sent
+2025/07/10 21:16:07 Write error: websocket: close sent
+2025/07/10 21:16:07 Write error: websocket: close sent
+2025/07/10 21:16:07 Write error: websocket: close sent
+2025/07/10 21:16:08 Write error: websocket: close sent
+2025/07/10 21:16:08 Write error: websocket: close sent
+2025/07/10 21:16:08 Write error: websocket: close sent
+2025/07/10 21:16:08 Write error: websocket: close sent
+2025/07/10 21:16:08 Write error: websocket: close sent
+2025/07/10 21:16:08 Write error: websocket: close sent
+2025/07/10 21:16:08 Write error: websocket: close sent
+2025/07/10 21:16:08 Write error: websocket: close sent
+2025/07/10 21:16:08 Write error: websocket: close sent
+2025/07/10 21:16:08 Write error: websocket: close sent
+2025/07/10 21:16:09 Write error: websocket: close sent
+2025/07/10 21:16:09 Write error: websocket: close sent
+2025/07/10 21:16:09 Write error: websocket: close sent
+2025/07/10 21:16:09 Write error: websocket: close sent
+2025/07/10 21:16:09 Write error: websocket: close sent
+2025/07/10 21:16:09 Write error: websocket: close sent
+2025/07/10 21:16:09 Write error: websocket: close sent
+2025/07/10 21:16:09 Write error: websocket: close sent
+2025/07/10 21:16:09 Write error: websocket: close sent
+2025/07/10 21:16:09 Write error: websocket: close sent
+2025/07/10 21:16:10 Write error: websocket: close sent
+2025/07/10 21:16:10 Write error: websocket: close sent
+2025/07/10 21:16:10 Write error: websocket: close sent
+2025/07/10 21:16:10 Write error: websocket: close sent
+2025/07/10 21:16:10 Write error: websocket: close sent
+2025/07/10 21:16:10 Write error: websocket: close sent
+2025/07/10 21:16:10 Write error: websocket: close sent
+2025/07/10 21:16:10 Write error: websocket: close sent
+2025/07/10 21:16:10 Write error: websocket: close sent
+2025/07/10 21:16:10 Write error: websocket: close sent
+2025/07/10 21:16:11 Write error: websocket: close sent
+2025/07/10 21:16:11 Write error: websocket: close sent
+2025/07/10 21:16:11 Write error: websocket: close sent
+2025/07/10 21:16:11 Write error: websocket: close sent
+2025/07/10 21:16:11 Write error: websocket: close sent
+2025/07/10 21:16:11 Write error: websocket: close sent
+2025/07/10 21:16:11 Write error: websocket: close sent
+2025/07/10 21:16:11 Write error: websocket: close sent
+2025/07/10 21:16:11 Write error: websocket: close sent
+2025/07/10 21:16:11 Write error: websocket: close sent
+2025/07/10 21:16:12 Write error: websocket: close sent
+2025/07/10 21:16:12 Write error: websocket: close sent
+2025/07/10 21:16:12 Write error: websocket: close sent
+2025/07/10 21:16:12 Write error: websocket: close sent
+2025/07/10 21:16:12 Write error: websocket: close sent
+2025/07/10 21:16:12 Write error: websocket: close sent
+2025/07/10 21:16:12 Write error: websocket: close sent
+2025/07/10 21:16:12 Write error: websocket: close sent
+2025/07/10 21:16:12 Write error: websocket: close sent
+2025/07/10 21:16:12 Write error: websocket: close sent
+2025/07/10 21:16:13 Write error: websocket: close sent
+2025/07/10 21:16:13 Write error: websocket: close sent
+2025/07/10 21:16:13 Write error: websocket: close sent
+2025/07/10 21:16:13 Write error: websocket: close sent
+2025/07/10 21:16:13 Write error: websocket: close sent
+2025/07/10 21:16:13 Write error: websocket: close sent
+2025/07/10 21:16:13 Write error: websocket: close sent
+2025/07/10 21:16:13 Write error: websocket: close sent
+2025/07/10 21:16:13 Write error: websocket: close sent
+2025/07/10 21:16:14 Write error: websocket: close sent
+2025/07/10 21:16:14 Write error: websocket: close sent
+2025/07/10 21:16:14 Write error: websocket: close sent
+2025/07/10 21:16:14 Write error: websocket: close sent
+2025/07/10 21:16:14 Write error: websocket: close sent
+2025/07/10 21:16:14 Write error: websocket: close sent
+2025/07/10 21:16:14 Write error: websocket: close sent
+2025/07/10 21:16:14 Write error: websocket: close sent
+2025/07/10 21:16:14 Write error: websocket: close sent
+2025/07/10 21:16:14 Write error: websocket: close sent
+2025/07/10 21:16:15 Write error: websocket: close sent
+2025/07/10 21:16:15 Write error: websocket: close sent
+2025/07/10 21:16:15 Write error: websocket: close sent
+2025/07/10 21:16:15 Write error: websocket: close sent
+2025/07/10 21:16:15 Write error: websocket: close sent
+2025/07/10 21:16:15 Write error: websocket: close sent
+2025/07/10 21:16:15 Write error: websocket: close sent
+2025/07/10 21:16:15 Write error: websocket: close sent
+2025/07/10 21:16:15 Write error: websocket: close sent
+2025/07/10 21:16:15 Write error: websocket: close sent
+2025/07/10 21:16:16 Write error: websocket: close sent
+2025/07/10 21:16:16 Write error: websocket: close sent
+2025/07/10 21:16:16 Write error: websocket: close sent
+2025/07/10 21:16:16 Write error: websocket: close sent
+2025/07/10 21:16:16 Write error: websocket: close sent
+2025/07/10 21:16:16 Write error: websocket: close sent
+2025/07/10 21:16:16 Write error: websocket: close sent
+2025/07/10 21:16:16 Write error: websocket: close sent
+2025/07/10 21:16:16 Write error: websocket: close sent
+2025/07/10 21:16:16 Write error: websocket: close sent
+2025/07/10 21:16:17 Write error: websocket: close sent
+2025/07/10 21:16:17 Write error: websocket: close sent
+2025/07/10 21:16:17 Write error: websocket: close sent
+2025/07/10 21:16:17 Write error: websocket: close sent
+2025/07/10 21:16:17 Write error: websocket: close sent
+2025/07/10 21:16:17 Write error: websocket: close sent
+2025/07/10 21:16:17 Write error: websocket: close sent
+2025/07/10 21:16:17 Write error: websocket: close sent
+2025/07/10 21:16:17 Write error: websocket: close sent
+2025/07/10 21:16:17 Write error: websocket: close sent
+2025/07/10 21:16:18 Write error: websocket: close sent
+2025/07/10 21:16:18 Write error: websocket: close sent
+2025/07/10 21:16:18 Write error: websocket: close sent
+2025/07/10 21:16:18 Write error: websocket: close sent
+2025/07/10 21:16:18 Write error: websocket: close sent
+2025/07/10 21:16:18 Write error: websocket: close sent
+2025/07/10 21:16:18 Write error: websocket: close sent
+2025/07/10 21:16:18 Write error: websocket: close sent
+2025/07/10 21:16:18 Write error: websocket: close sent
+2025/07/10 21:16:18 Write error: websocket: close sent
+2025/07/10 21:16:19 Write error: websocket: close sent
+2025/07/10 21:16:19 Write error: websocket: close sent
+2025/07/10 21:16:19 Write error: websocket: close sent
+2025/07/10 21:16:19 Write error: websocket: close sent
+2025/07/10 21:16:19 Write error: websocket: close sent
+2025/07/10 21:16:19 Write error: websocket: close sent
+2025/07/10 21:16:19 Write error: websocket: close sent
+2025/07/10 21:16:19 Write error: websocket: close sent
+2025/07/10 21:16:19 Write error: websocket: close sent
+2025/07/10 21:16:19 Write error: websocket: close sent
+2025/07/10 21:16:20 Write error: websocket: close sent
+2025/07/10 21:16:20 Write error: websocket: close sent
+2025/07/10 21:16:20 Write error: websocket: close sent
+2025/07/10 21:16:20 Write error: websocket: close sent
+2025/07/10 21:16:20 Write error: websocket: close sent
+2025/07/10 21:16:20 Write error: websocket: close sent
+2025/07/10 21:16:20 Write error: websocket: close sent
+2025/07/10 21:16:20 Write error: websocket: close sent
+2025/07/10 21:16:20 Write error: websocket: close sent
+2025/07/10 21:16:20 Write error: websocket: close sent
+2025/07/10 21:16:21 Write error: websocket: close sent
+2025/07/10 21:16:21 Write error: websocket: close sent
+2025/07/10 21:16:21 Write error: websocket: close sent
+2025/07/10 21:16:21 Write error: websocket: close sent
+2025/07/10 21:16:21 Write error: websocket: close sent
+2025/07/10 21:16:21 Write error: websocket: close sent
+2025/07/10 21:16:21 Write error: websocket: close sent
+2025/07/10 21:16:21 Write error: websocket: close sent
+2025/07/10 21:16:21 Write error: websocket: close sent
+2025/07/10 21:16:21 Write error: websocket: close sent
+2025/07/10 21:16:22 Write error: websocket: close sent
+2025/07/10 21:16:22 Write error: websocket: close sent
+2025/07/10 21:16:22 Write error: websocket: close sent
+2025/07/10 21:16:22 Write error: websocket: close sent
+2025/07/10 21:16:22 Write error: websocket: close sent
+2025/07/10 21:16:22 Write error: websocket: close sent
+2025/07/10 21:16:22 Write error: websocket: close sent
+2025/07/10 21:16:22 Write error: websocket: close sent
+2025/07/10 21:16:22 Write error: websocket: close sent
+2025/07/10 21:16:23 Write error: websocket: close sent
+2025/07/10 21:16:23 Write error: websocket: close sent
+2025/07/10 21:16:23 Write error: websocket: close sent
+2025/07/10 21:16:23 Write error: websocket: close sent
+2025/07/10 21:16:23 Write error: websocket: close sent
+2025/07/10 21:16:23 Write error: websocket: close sent
+2025/07/10 21:16:23 Write error: websocket: close sent
+2025/07/10 21:16:23 Write error: websocket: close sent
+2025/07/10 21:16:23 Write error: websocket: close sent
+2025/07/10 21:16:23 Write error: websocket: close sent
+2025/07/10 21:16:24 Write error: websocket: close sent
+2025/07/10 21:16:24 Write error: websocket: close sent
+2025/07/10 21:16:24 Write error: websocket: close sent
+2025/07/10 21:16:24 Write error: websocket: close sent
+2025/07/10 21:16:24 Write error: websocket: close sent
+2025/07/10 21:16:24 Write error: websocket: close sent
+2025/07/10 21:16:24 Write error: websocket: close sent
+2025/07/10 21:16:24 Write error: websocket: close sent
+2025/07/10 21:16:24 Write error: websocket: close sent
+2025/07/10 21:16:24 Write error: websocket: close sent
+2025/07/10 21:16:25 Write error: websocket: close sent
+2025/07/10 21:16:25 Write error: websocket: close sent
+2025/07/10 21:16:25 Write error: websocket: close sent
+2025/07/10 21:16:25 Write error: websocket: close sent
+2025/07/10 21:16:25 Write error: websocket: close sent
+2025/07/10 21:16:25 Write error: websocket: close sent
+2025/07/10 21:16:25 Write error: websocket: close sent
+2025/07/10 21:16:25 Write error: websocket: close sent
+2025/07/10 21:16:25 Write error: websocket: close sent
+2025/07/10 21:16:25 Write error: websocket: close sent
+2025/07/10 21:16:26 Write error: websocket: close sent
+2025/07/10 21:16:26 Write error: websocket: close sent
+2025/07/10 21:16:26 Write error: websocket: close sent
+2025/07/10 21:16:26 Write error: websocket: close sent
+2025/07/10 21:16:26 Write error: websocket: close sent
+2025/07/10 21:16:26 Write error: websocket: close sent
+2025/07/10 21:16:26 Write error: websocket: close sent
+2025/07/10 21:16:26 Write error: websocket: close sent
+2025/07/10 21:16:26 Write error: websocket: close sent
+2025/07/10 21:16:26 Write error: websocket: close sent
+2025/07/10 21:16:27 Write error: websocket: close sent
+2025/07/10 21:16:27 Write error: websocket: close sent
+2025/07/10 21:16:27 Write error: websocket: close sent
+2025/07/10 21:16:27 Write error: websocket: close sent
+2025/07/10 21:16:27 Write error: websocket: close sent
+2025/07/10 21:16:27 Write error: websocket: close sent
+2025/07/10 21:16:27 Write error: websocket: close sent
+2025/07/10 21:16:27 Write error: websocket: close sent
+2025/07/10 21:16:27 Write error: websocket: close sent
+2025/07/10 21:16:27 Write error: websocket: close sent
+2025/07/10 21:16:28 Write error: websocket: close sent
+2025/07/10 21:16:28 Write error: websocket: close sent
+2025/07/10 21:16:28 Write error: websocket: close sent
+2025/07/10 21:16:28 Write error: websocket: close sent
+2025/07/10 21:16:28 Write error: websocket: close sent
+2025/07/10 21:16:28 Write error: websocket: close sent
+2025/07/10 21:16:28 Write error: websocket: close sent
+2025/07/10 21:16:28 Write error: websocket: close sent
+2025/07/10 21:16:28 Write error: websocket: close sent
+2025/07/10 21:16:28 Write error: websocket: close sent
+2025/07/10 21:16:29 Write error: websocket: close sent
+2025/07/10 21:16:29 Write error: websocket: close sent
+2025/07/10 21:16:29 Write error: websocket: close sent
+2025/07/10 21:16:29 Write error: websocket: close sent
+2025/07/10 21:16:29 Write error: websocket: close sent
+2025/07/10 21:16:29 Write error: websocket: close sent
+2025/07/10 21:16:29 Write error: websocket: close sent
+2025/07/10 21:16:29 Write error: websocket: close sent
+2025/07/10 21:16:29 Write error: websocket: close sent
+2025/07/10 21:16:29 Write error: websocket: close sent
+2025/07/10 21:16:30 Write error: websocket: close sent
+2025/07/10 21:16:30 Write error: websocket: close sent
+2025/07/10 21:16:30 Write error: websocket: close sent
+2025/07/10 21:16:30 Write error: websocket: close sent
+2025/07/10 21:16:30 Write error: websocket: close sent
+2025/07/10 21:16:30 Write error: websocket: close sent
+2025/07/10 21:16:30 Write error: websocket: close sent
+2025/07/10 21:16:30 Write error: websocket: close sent
+2025/07/10 21:16:30 Write error: websocket: close sent
+2025/07/10 21:16:31 Write error: websocket: close sent
+2025/07/10 21:16:31 Write error: websocket: close sent
+2025/07/10 21:16:31 Write error: websocket: close sent
+2025/07/10 21:16:31 Write error: websocket: close sent
+2025/07/10 21:16:31 Write error: websocket: close sent
+2025/07/10 21:16:31 Write error: websocket: close sent
+2025/07/10 21:16:31 Write error: websocket: close sent
+2025/07/10 21:16:31 Write error: websocket: close sent
+2025/07/10 21:16:31 Write error: websocket: close sent
+2025/07/10 21:16:31 Write error: websocket: close sent
+2025/07/10 21:16:32 Write error: websocket: close sent
+2025/07/10 21:16:32 Write error: websocket: close sent
+2025/07/10 21:16:32 Write error: websocket: close sent
+2025/07/10 21:16:32 Write error: websocket: close sent
+2025/07/10 21:16:32 Write error: websocket: close sent
+2025/07/10 21:16:32 Write error: websocket: close sent
+2025/07/10 21:16:32 Write error: websocket: close sent
+2025/07/10 21:16:32 Write error: websocket: close sent
+2025/07/10 21:16:32 Write error: websocket: close sent
+2025/07/10 21:16:32 Write error: websocket: close sent
+2025/07/10 21:16:33 Write error: websocket: close sent
+2025/07/10 21:16:33 Write error: websocket: close sent
+2025/07/10 21:16:33 Write error: websocket: close sent
+2025/07/10 21:16:33 Write error: websocket: close sent
+2025/07/10 21:16:33 Write error: websocket: close sent
+2025/07/10 21:16:33 Write error: websocket: close sent
+2025/07/10 21:16:33 Write error: websocket: close sent
+2025/07/10 21:16:33 Write error: websocket: close sent
+2025/07/10 21:16:33 Write error: websocket: close sent
+2025/07/10 21:16:33 Write error: websocket: close sent
+2025/07/10 21:16:34 Write error: websocket: close sent
+2025/07/10 21:16:34 Write error: websocket: close sent
+2025/07/10 21:16:34 Write error: websocket: close sent
+2025/07/10 21:16:34 Write error: websocket: close sent
+2025/07/10 21:16:34 Write error: websocket: close sent
+2025/07/10 21:16:34 Write error: websocket: close sent
+2025/07/10 21:16:34 Write error: websocket: close sent
+2025/07/10 21:16:34 Write error: websocket: close sent
+2025/07/10 21:16:34 Write error: websocket: close sent
+2025/07/10 21:16:34 Write error: websocket: close sent
+2025/07/10 21:16:35 Write error: websocket: close sent
+2025/07/10 21:16:35 Write error: websocket: close sent
+2025/07/10 21:16:35 Write error: websocket: close sent
+2025/07/10 21:16:35 Write error: websocket: close sent
+2025/07/10 21:16:35 Write error: websocket: close sent
+2025/07/10 21:16:35 Write error: websocket: close sent
+2025/07/10 21:16:35 Write error: websocket: close sent
+2025/07/10 21:16:35 Write error: websocket: close sent
+2025/07/10 21:16:35 Write error: websocket: close sent
+2025/07/10 21:16:35 Write error: websocket: close sent
+2025/07/10 21:16:36 Write error: websocket: close sent
+2025/07/10 21:16:36 Write error: websocket: close sent
+2025/07/10 21:16:36 Write error: websocket: close sent
+2025/07/10 21:16:36 Write error: websocket: close sent
+2025/07/10 21:16:36 Write error: websocket: close sent
+2025/07/10 21:16:36 Write error: websocket: close sent
+2025/07/10 21:16:36 Write error: websocket: close sent
+2025/07/10 21:16:36 Write error: websocket: close sent
+2025/07/10 21:16:36 Write error: websocket: close sent
+2025/07/10 21:16:36 Write error: websocket: close sent
+2025/07/10 21:16:37 Write error: websocket: close sent
+2025/07/10 21:16:37 Write error: websocket: close sent
+2025/07/10 21:16:37 Write error: websocket: close sent
+2025/07/10 21:16:37 Write error: websocket: close sent
+2025/07/10 21:16:37 Write error: websocket: close sent
+2025/07/10 21:16:37 Write error: websocket: close sent
+2025/07/10 21:16:37 Write error: websocket: close sent
+2025/07/10 21:16:37 Write error: websocket: close sent
+2025/07/10 21:16:37 Write error: websocket: close sent
+2025/07/10 21:16:37 Write error: websocket: close sent
+2025/07/10 21:16:38 Write error: websocket: close sent
+2025/07/10 21:16:38 Write error: websocket: close sent
+2025/07/10 21:16:38 Write error: websocket: close sent
+2025/07/10 21:16:38 Write error: websocket: close sent
+2025/07/10 21:16:38 Write error: websocket: close sent
+2025/07/10 21:16:38 Write error: websocket: close sent
+2025/07/10 21:16:38 Write error: websocket: close sent
+2025/07/10 21:16:38 Write error: websocket: close sent
+2025/07/10 21:16:38 Write error: websocket: close sent
+2025/07/10 21:16:38 Write error: websocket: close sent
+2025/07/10 21:16:39 Write error: websocket: close sent
+2025/07/10 21:16:39 Write error: websocket: close sent
+2025/07/10 21:16:39 Write error: websocket: close sent
+2025/07/10 21:16:39 Write error: websocket: close sent
+2025/07/10 21:16:39 Write error: websocket: close sent
+2025/07/10 21:16:39 Write error: websocket: close sent
+2025/07/10 21:16:39 Write error: websocket: close sent
+2025/07/10 21:16:39 Write error: websocket: close sent
+2025/07/10 21:16:39 Write error: websocket: close sent
+2025/07/10 21:16:40 Write error: websocket: close sent
+2025/07/10 21:16:40 Write error: websocket: close sent
+2025/07/10 21:16:40 Write error: websocket: close sent
+2025/07/10 21:16:40 Write error: websocket: close sent
+2025/07/10 21:16:40 Write error: websocket: close sent
+2025/07/10 21:16:40 Write error: websocket: close sent
+2025/07/10 21:16:40 Write error: websocket: close sent
+2025/07/10 21:16:40 Write error: websocket: close sent
+2025/07/10 21:16:40 Write error: websocket: close sent
+2025/07/10 21:16:40 Write error: websocket: close sent
+2025/07/10 21:16:41 Write error: websocket: close sent
+2025/07/10 21:16:41 Write error: websocket: close sent
+2025/07/10 21:16:41 Write error: websocket: close sent
+2025/07/10 21:16:41 Write error: websocket: close sent
+2025/07/10 21:16:41 Write error: websocket: close sent
+2025/07/10 21:16:41 Write error: websocket: close sent
+2025/07/10 21:16:41 Write error: websocket: close sent
+2025/07/10 21:16:41 Write error: websocket: close sent
+2025/07/10 21:16:41 Write error: websocket: close sent
+2025/07/10 21:16:41 Write error: websocket: close sent
+2025/07/10 21:16:42 Write error: websocket: close sent
+2025/07/10 21:16:42 Write error: websocket: close sent
+2025/07/10 21:16:42 Write error: websocket: close sent
+2025/07/10 21:16:42 Write error: websocket: close sent
+2025/07/10 21:16:42 Write error: websocket: close sent
+2025/07/10 21:16:42 Write error: websocket: close sent
+2025/07/10 21:16:42 Write error: websocket: close sent
+2025/07/10 21:16:42 Write error: websocket: close sent
+2025/07/10 21:16:42 Write error: websocket: close sent
+2025/07/10 21:16:42 Write error: websocket: close sent
+2025/07/10 21:16:43 Write error: websocket: close sent
+2025/07/10 21:16:43 Write error: websocket: close sent
+2025/07/10 21:16:43 Write error: websocket: close sent
+2025/07/10 21:16:43 Write error: websocket: close sent
+2025/07/10 21:23:47 Write error: <nil>
+2025/07/10 21:23:47 Write error: <nil>
+2025/07/10 21:23:47 Write error: <nil>
+2025/07/10 21:23:47 Write error: <nil>
+2025/07/10 21:23:47 Write error: <nil>
+2025/07/10 21:23:47 Write error: <nil>
+2025/07/10 21:23:47 Write error: <nil>
+2025/07/10 21:23:47 Write error: <nil>
+2025/07/10 21:23:47 Write error: <nil>
+2025/07/10 21:23:48 Write error: <nil>
+2025/07/10 21:23:48 Write error: <nil>
+2025/07/10 21:23:48 Write error: <nil>
+2025/07/10 21:23:48 Write error: <nil>
+2025/07/10 21:23:48 Write error: <nil>
+2025/07/10 21:23:48 Write error: <nil>
+2025/07/10 21:23:48 Write error: <nil>
+2025/07/10 21:23:48 Write error: <nil>
+2025/07/10 21:23:48 Write error: <nil>
+2025/07/10 21:23:48 Write error: <nil>
+2025/07/10 21:23:49 Write error: <nil>
+2025/07/10 21:23:49 Write error: <nil>
+2025/07/10 21:23:49 Write error: <nil>
+2025/07/10 21:23:49 Write error: <nil>
+2025/07/10 21:23:49 Write error: <nil>
+2025/07/10 21:23:49 Write error: <nil>
+2025/07/10 21:23:49 Write error: <nil>
+2025/07/10 21:23:49 Write error: <nil>
+2025/07/10 21:23:49 Write error: <nil>
+2025/07/10 21:23:49 Write error: <nil>
+2025/07/10 21:23:50 Write error: <nil>
+2025/07/10 21:23:50 Write error: <nil>
+2025/07/10 21:23:50 Write error: <nil>
+2025/07/10 21:23:50 Write error: <nil>
+2025/07/10 21:23:50 Write error: <nil>
+2025/07/10 21:23:50 Write error: <nil>
+2025/07/10 21:23:50 Write error: <nil>
+2025/07/10 21:23:50 Write error: <nil>
+2025/07/10 21:23:50 Write error: <nil>
+2025/07/10 21:23:51 Write error: <nil>
+2025/07/10 21:23:51 Write error: <nil>
+2025/07/10 21:23:51 Write error: <nil>
+2025/07/10 21:23:51 Write error: <nil>
+2025/07/10 21:23:51 Write error: <nil>
+2025/07/10 21:23:51 Write error: <nil>
+2025/07/10 21:23:51 Write error: <nil>
+2025/07/10 21:23:51 Write error: <nil>
+2025/07/10 21:23:51 Write error: <nil>
+2025/07/10 21:23:51 Write error: <nil>
+2025/07/10 21:23:52 Write error: <nil>
+2025/07/10 21:23:52 Write error: <nil>
+2025/07/10 21:23:52 Write error: <nil>
+2025/07/10 21:23:52 Write error: <nil>
+2025/07/10 21:23:52 Write error: <nil>
+2025/07/10 21:23:52 Write error: <nil>
+2025/07/10 21:23:52 Write error: <nil>
+2025/07/10 21:23:52 Write error: <nil>
+2025/07/10 21:23:52 Write error: <nil>
+2025/07/10 21:23:53 Write error: <nil>
+2025/07/10 21:23:53 Write error: <nil>
+2025/07/10 21:23:53 Write error: <nil>
+2025/07/10 21:23:53 Read error: websocket: close 1001 (going away)
+2025/07/10 21:24:19 Write error: <nil>
+2025/07/10 21:24:19 Write error: <nil>
+2025/07/10 21:24:20 Write error: <nil>
+2025/07/10 21:24:20 Write error: <nil>
+2025/07/10 21:24:20 Write error: <nil>
+2025/07/10 21:24:20 Write error: <nil>
+2025/07/10 21:24:20 Write error: <nil>
+2025/07/10 21:24:20 Write error: <nil>
+2025/07/10 21:24:20 Write error: <nil>
+2025/07/10 21:24:20 Write error: <nil>
+2025/07/10 21:24:20 Write error: <nil>
+2025/07/10 21:24:21 Write error: <nil>
+2025/07/10 21:24:21 Write error: <nil>
+2025/07/10 21:24:21 Write error: <nil>
+2025/07/10 21:24:21 Write error: <nil>
+2025/07/10 21:24:21 Write error: <nil>
+2025/07/10 21:24:21 Write error: <nil>
+2025/07/10 21:24:21 Write error: <nil>
+2025/07/10 21:24:21 Write error: <nil>
+2025/07/10 21:24:21 Write error: <nil>
+2025/07/10 21:24:21 Write error: <nil>
+2025/07/10 21:24:22 Write error: <nil>
+2025/07/10 21:24:22 Write error: <nil>
+2025/07/10 21:24:22 Write error: <nil>
+2025/07/10 21:24:22 Write error: <nil>
+2025/07/10 21:24:22 Write error: <nil>
+2025/07/10 21:24:22 Write error: <nil>
+2025/07/10 21:24:22 Write error: <nil>
+2025/07/10 21:24:22 Write error: <nil>
+2025/07/10 21:24:22 Write error: <nil>
+2025/07/10 21:24:22 Write error: <nil>
+2025/07/10 21:24:23 Write error: <nil>
+2025/07/10 21:24:23 Write error: <nil>
+2025/07/10 21:24:23 Write error: <nil>
+2025/07/10 21:24:23 Write error: <nil>
+2025/07/10 21:24:23 Write error: <nil>
+2025/07/10 21:24:23 Write error: <nil>
+2025/07/10 21:24:23 Write error: <nil>
+2025/07/10 21:24:23 Write error: <nil>
+2025/07/10 21:24:23 Write error: <nil>
+2025/07/10 21:24:24 Write error: <nil>
+2025/07/10 21:24:24 Write error: <nil>
+2025/07/10 21:24:24 Write error: <nil>
+2025/07/10 21:24:24 Write error: <nil>
+2025/07/10 21:24:24 Write error: <nil>
+2025/07/10 21:24:24 Write error: <nil>
+2025/07/10 21:24:24 Write error: <nil>
+2025/07/10 21:24:24 Write error: <nil>
+2025/07/10 21:24:24 Write error: <nil>
+2025/07/10 21:24:24 Write error: <nil>
+2025/07/10 21:24:25 Write error: <nil>
+2025/07/10 21:24:25 Write error: <nil>
+2025/07/10 21:24:25 Write error: <nil>
+2025/07/10 21:24:25 Write error: <nil>
+2025/07/10 21:24:25 Write error: <nil>
+2025/07/10 21:24:25 Write error: <nil>
+2025/07/10 21:24:25 Write error: <nil>
+2025/07/10 21:24:25 Write error: <nil>
+2025/07/10 21:24:25 Write error: <nil>
+2025/07/10 21:24:26 Write error: <nil>
+2025/07/10 21:24:26 Write error: <nil>
+2025/07/10 21:24:26 Write error: <nil>
+2025/07/10 21:24:26 Write error: <nil>
+2025/07/10 21:24:26 Write error: <nil>
+2025/07/10 21:24:26 Write error: <nil>
+2025/07/10 21:24:26 Write error: <nil>
+2025/07/10 21:24:26 Write error: <nil>
+2025/07/10 21:24:26 Write error: <nil>
+2025/07/10 21:24:26 Write error: <nil>
+2025/07/10 21:24:27 Write error: <nil>
+2025/07/10 21:24:27 Write error: <nil>
+2025/07/10 21:24:27 Write error: <nil>
+2025/07/10 21:24:27 Write error: <nil>
+2025/07/10 21:24:27 Write error: <nil>
+2025/07/10 21:24:27 Write error: <nil>
+2025/07/10 21:24:27 Write error: <nil>
+2025/07/10 21:24:27 Write error: <nil>
+2025/07/10 21:24:27 Write error: <nil>
+2025/07/10 21:24:28 Write error: <nil>
+2025/07/10 21:24:28 Write error: <nil>
+2025/07/10 21:24:28 Write error: <nil>
+2025/07/10 21:24:28 Write error: <nil>
+2025/07/10 21:24:28 Write error: <nil>
+2025/07/10 21:24:28 Write error: <nil>
+2025/07/10 21:24:28 Write error: <nil>
+2025/07/10 21:24:28 Write error: <nil>
+2025/07/10 21:24:28 Write error: <nil>
+2025/07/10 21:24:28 Write error: <nil>
+2025/07/10 21:24:29 Write error: <nil>
+2025/07/10 21:24:29 Write error: <nil>
+2025/07/10 21:24:29 Write error: <nil>
+2025/07/10 21:24:29 Write error: <nil>
+2025/07/10 21:24:29 Write error: <nil>
+2025/07/10 21:24:29 Write error: <nil>
+2025/07/10 21:24:29 Write error: <nil>
+2025/07/10 21:24:29 Write error: <nil>
+2025/07/10 21:24:29 Write error: <nil>
+2025/07/10 21:24:29 Write error: <nil>
+2025/07/10 21:24:30 Write error: <nil>
+2025/07/10 21:24:30 Read error: websocket: close 1001 (going away)

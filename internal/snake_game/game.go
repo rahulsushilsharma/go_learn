@@ -1,6 +1,7 @@
 package snake_game
 
 import (
+	"encoding/json"
 	"fmt"
 	"log"
 	"math/rand/v2"
@@ -8,10 +9,14 @@ import (
 	"strconv"
 	"time"
 
+	"go_learn/internal/handler"
 	"go_learn/internal/model"
 
 	"github.com/gdamore/tcell/v2"
+	"github.com/gorilla/websocket"
 )
+
+var GlobelGameState *model.Gamestate
 
 func updatePosition(state *model.Gamestate, index int) {
 	checkEating(state)
@@ -303,6 +308,7 @@ func RunGame() {
 		default:
 
 			gameLoop(&state, s, tcell.StyleDefault, index)
+
 			if err != nil {
 				panic(err)
 			}
@@ -312,6 +318,24 @@ func RunGame() {
 			s.Show()
 
 			time.Sleep(100 * time.Millisecond)
+
+			if handler.SocketConnection != nil {
+
+				data, err := json.Marshal(state)
+
+				if err != nil {
+					log.Println("marshal")
+					continue
+				}
+
+				err = handler.SocketConnection.WriteMessage(websocket.TextMessage, data)
+				if err != nil {
+					log.Println("Write error:", err)
+				}
+			} else {
+				log.Println("Write error:", handler.SocketConnection)
+
+			}
 
 		}
 		index++
