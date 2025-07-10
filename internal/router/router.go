@@ -21,5 +21,6 @@ func SetupRouter() *gin.Engine {
 
 	engine.GET("/users", handler.GetUsers)
 	engine.POST("/users", handler.CreateUser)
+	engine.GET("/ws", handler.Socket)
 	return engine
 }
