@@ -96,7 +96,7 @@ function App() {
 
 function GameBoard(props:{gameData : string}){
   const jsonData = JSON.parse(props.gameData)
-  const snakePos = jsonData?.SnakePosition?.map(val=>val[0]+''+val[1])
+  const snakePos = jsonData?.SnakePosition?.map((val: number[])=>val[0]+''+val[1])
 
   function color(i:number,j:number){
     let background = "green"
