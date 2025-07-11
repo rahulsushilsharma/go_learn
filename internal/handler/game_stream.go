@@ -10,6 +10,7 @@ import (
 )
 
 var SocketConnection *websocket.Conn
+var WebInputChanel = make(chan string)
 
 var upgrader = websocket.Upgrader{
 	ReadBufferSize:  1024,
@@ -27,19 +28,32 @@ func Socket(context *gin.Context) {
 		return
 	}
 
-	defer conn.Close()
+	// defer conn.Close()
 	SocketConnection = conn
 
-	for {
+	// for {
 
-		messageType, message, err := conn.ReadMessage()
-		if err != nil {
-			log.Println("Read error:", err)
-			break
+	// 	messageType, message, err := conn.ReadMessage()
+	// 	if err != nil {
+	// 		log.Println("Read error:", err)
+	// 		break
+	// 	}
+
+	// 	log.Println(messageType, string(message))
+
+	// }
+	go func() {
+		for {
+
+			messageType, message, err := conn.ReadMessage()
+			if err != nil {
+				log.Println("Read error:", err)
+				break
+			}
+			WebInputChanel <- string(message)
+			log.Println(messageType, string(message))
+
 		}
-
-		log.Println(messageType, string(message))
-
-	}
+	}()
 
 }

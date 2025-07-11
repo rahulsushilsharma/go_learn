@@ -1,9 +1,9 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import './App.css'
 
 function App() {
   const [users, setUser] = useState<{id:number, name:string}[]>([])
-  const [socketConn, setSocketConn] = useState<WebSocket>()
+  const socketConn = useRef<WebSocket| null>(null)
   const [gameData, setGameData] = useState("{}")
   async function getUsers(){
     const user = await fetch('http://localhost:8000/users')
@@ -11,6 +11,8 @@ function App() {
     console.log(json)
     setUser(json)
   }
+
+
   useEffect(() => {
     const socket = new WebSocket("ws://localhost:8000/ws");
   
@@ -30,8 +32,8 @@ function App() {
     socket.onclose = () => {
       console.log("WebSocket closed");
     };
-    setSocketConn(socket)
-  
+
+    socketConn.current = socket
     return () => {
       socket.close();
     };
@@ -61,9 +63,22 @@ function App() {
   // }
 
 
+  function handleKey(event:KeyboardEvent){
+    console.log(event.key)
+    socketConn?.current?.send(event.key)
+  }
   useEffect(()=>{
     getUsers()
+    function setupInput(){
+      console.log("listener added");
+      window.addEventListener('keyup', handleKey)
+    }
+    setupInput()
     // socketConnection()
+    return () => {
+      window.removeEventListener("keyup", handleKey);
+    };
+  
   },[])
   return (
     <>
@@ -79,7 +94,7 @@ function App() {
         }
 
         <button onClick={()=>{
-          socketConn?.send('data')
+          socketConn?.current?.send('data')
         }}>add</button>
 
 <GameBoard gameData={gameData}/>

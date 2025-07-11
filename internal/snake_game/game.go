@@ -293,6 +293,7 @@ func RunGame() {
 		}
 
 	}()
+
 	index := 1
 	for {
 
@@ -305,6 +306,10 @@ func RunGame() {
 			return
 		case input := <-inputChan:
 			updateDiraction(input, &state)
+		case input := <-handler.WebInputChanel:
+			val := rune(input[0])
+			updateDiraction(val, &state)
+
 		default:
 
 			gameLoop(&state, s, tcell.StyleDefault, index)
