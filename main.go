@@ -2,8 +2,8 @@ package main
 
 import (
 	_ "go_learn/docs"
+	imagetoterminal "go_learn/internal/image_to_terminal"
 	"go_learn/internal/router"
-	"go_learn/internal/snake_game"
 
 	swaggerFiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
@@ -16,8 +16,8 @@ func Serve() {
 }
 
 func main() {
-	go Serve()
+	// go Serve()
 
-	snake_game.RunGame()
-
+	// snake_game.RunGame()
+	imagetoterminal.RunParse()
 }

@@ -7,3 +7,7 @@ completed snake game
 next task
 
 stream the live game in browser 
+
+next task 
+
+reading image and rendering to terminal
